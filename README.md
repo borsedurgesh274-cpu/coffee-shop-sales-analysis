@@ -60,6 +60,5 @@ Weekend sales outperform weekdays
 
 Certain products show strong seasonal demand
 
-## 📷 Dashboard Preview
-![Dashboard](C:\Users\DELL\Pictures\Screenshots)
+
 
